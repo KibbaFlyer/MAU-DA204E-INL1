@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\bin\Debug\net6.0\The Shopping Basket.exe
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\bin\Debug\net6.0\The Shopping Basket.deps.json
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\bin\Debug\net6.0\The Shopping Basket.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\bin\Debug\net6.0\The Shopping Basket.dll
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\bin\Debug\net6.0\The Shopping Basket.pdb
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\The Shopping Basket.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\The Shopping Basket.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\The Shopping Basket.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\The Shopping Basket.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\The Shopping Basket.dll
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\refint\The Shopping Basket.dll
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\The Shopping Basket.pdb
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\The Shopping Basket.genruntimeconfig.cache
+\\Mac\Home\Documents\GitHub\MAU-DA204E-INL1\The Shopping Basket\The Shopping Basket\obj\Debug\net6.0\ref\The Shopping Basket.dll
